@@ -24,10 +24,10 @@
 
 ## 📫 ارتباط با ما
 
-- 🌐 وب‌سایت: [hostina.ir](https://hostina.ir)  
-- 🐦 توییتر: [@Hostina](https://twitter.com/Hostina)  
-- 💬 اینستاگرام: [@Hostina](https://instagram.com/Hostina)  
-- 📩 پشتیبانی: [support@hostina.ir](mailto:support@hostina.ir)
+- 🌐 وب‌سایت: [hostinow.ir](https://hostinow.ir)  
+- 🐦 توییتر: [@Hostinow_ir](https://x.com/Hostinow_ir)  
+- 💬 اینستاگرام: [@Hostinowir](https://instagram.com/Hostinowir)  
+- 📩 پشتیبانی: [support@hostina.ir](mailto:support@hostinow.ir)
 
 ---
 
