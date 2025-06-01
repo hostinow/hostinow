@@ -26,7 +26,7 @@
 
 - 🌐 وب‌سایت: [hostinow.ir](https://hostinow.ir)  
 - 🐦 توییتر: [@Hostinow_ir](https://x.com/Hostinow_ir)  
-- 💬 اینستاگرام: [@Hostinowir](https://instagram.com/Hostinowir)  
+- 💬 اینستاگرام: [@hostinow_ir](https://instagram.com/hostinow_ir)  
 - 📩 پشتیبانی: [support@hostina.ir](mailto:support@hostinow.ir)
 
 ---
